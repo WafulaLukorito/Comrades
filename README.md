@@ -1,5 +1,10 @@
 # Comrades Blog
 
+I used to be a columnist a decade ago, and I hosted my articles on a WordPress site that is now defunct. I have managed to retrieve the SQL dump and the associated media files, so I decided to create a new Next.js site to host them.
+
+You can access the articles here: 
+
+
 A modern, high-aesthetic Next.js blog migrated from a WordPress cPanel backup archive. 
 
 ## Features
